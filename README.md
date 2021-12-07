@@ -9,5 +9,5 @@ The autonomous robot car used several sensors to detect the road, where based on
 Also an encoder was used to measure the speed of the car, so that the driving accuracy is as good as possible.
 Problems during this project have been the drop in battery level. Therefore, it was necessary to provid all the possibilities that could have happened for the car to finish the given road in the fastest possible time.
 
-p.s: This is not the final version of the code that is used in this project
+p.s: This is not the final version of the code that is used in this project.
 
